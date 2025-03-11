@@ -35,6 +35,8 @@
   
 - **Algorithms & Problem Solving – Level 4**: `cert_00rjbkp8`  
 
+- **Algorithms & Problem Solving – Level 5**: `cert_t2ghv705`  
+
   
   🌐.<br><br>🌍 Outside of coding, I'm fascinated by history 📜, philosophy 🏛️, and languages 🗣️—currently learning Chinese 🇨🇳 alongside my fluency in Arabic 🇸🇦 and English 🇬🇧. In my free time, I enjoy classical music 🎼, football ⚽, and exploring art and human heritage 🖼️.<br><br>💬 Always open to discussions and collaborations on exciting projects—feel free to check out my repositories! 🎯</p>
 
