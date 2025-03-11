@@ -25,7 +25,7 @@
 
 <p align="left">Hi, I'm Ahmed! 🚀 I'm a software engineer and business information systems student with a passion for problem-solving, data structures, and algorithms. 💡 I specialize in C++ ⚡,C# , .NET 🖥️,ADO.NET, Windows Forms, and SQL Server 🗄️, with Int in system analysis, software architecture, and database management.<br><br>🔍 I love tackling complex problems, optimizing code for efficiency, and designing scalable systems. I'm also interested in competitive programming  🤖, software optimization, and full-stack development 
   
-  **Solved 300+ problem-solving questions** (easy to medium) on **Programming Advices**.  
+  **Solved 300+ problem-solving questions** (easy to medium) on **Programming Advices PLatform**.  
 
   - **Algorithms & Problem Solving – Level 1**: `cert_d0z4zgv5`  
   
