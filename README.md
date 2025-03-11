@@ -23,7 +23,20 @@
 
 ###
 
-<p align="left">Hi, I'm Ahmed! 🚀 I'm a software engineer and business information systems student with a passion for problem-solving, data structures, and algorithms. 💡 I specialize in C++ ⚡, .NET 🖥️,ADO.NET, Windows Forms, and SQL Server 🗄️, with experience in system analysis, software architecture, and database management.<br><br>🔍 I love tackling complex problems, optimizing code for efficiency, and designing scalable systems. I'm also interested in AI 🤖, software optimization, and full-stack development 🌐.<br><br>🌍 Outside of coding, I'm fascinated by history 📜, philosophy 🏛️, and languages 🗣️—currently learning Chinese 🇨🇳 alongside my fluency in Arabic 🇸🇦 and English 🇬🇧. In my free time, I enjoy classical music 🎼, football ⚽, and exploring art and human heritage 🖼️.<br><br>💬 Always open to discussions and collaborations on exciting projects—feel free to check out my repositories! 🎯</p>
+<p align="left">Hi, I'm Ahmed! 🚀 I'm a software engineer and business information systems student with a passion for problem-solving, data structures, and algorithms. 💡 I specialize in C++ ⚡,C# , .NET 🖥️,ADO.NET, Windows Forms, and SQL Server 🗄️, with Int in system analysis, software architecture, and database management.<br><br>🔍 I love tackling complex problems, optimizing code for efficiency, and designing scalable systems. I'm also interested in competitive programming  🤖, software optimization, and full-stack development 
+  
+  **Solved 300+ problem-solving questions** (easy to medium) on **Programming Advices**.  
+
+  - **Algorithms & Problem Solving – Level 1**: `cert_d0z4zgv5`  
+  
+- **Algorithms & Problem Solving – Level 2**: `cert_dpf1x6df`
+  
+- **Algorithms & Problem Solving – Level 3**: `cert_n5cncl6r`
+  
+- **Algorithms & Problem Solving – Level 4**: `cert_00rjbkp8`  
+
+  
+  🌐.<br><br>🌍 Outside of coding, I'm fascinated by history 📜, philosophy 🏛️, and languages 🗣️—currently learning Chinese 🇨🇳 alongside my fluency in Arabic 🇸🇦 and English 🇬🇧. In my free time, I enjoy classical music 🎼, football ⚽, and exploring art and human heritage 🖼️.<br><br>💬 Always open to discussions and collaborations on exciting projects—feel free to check out my repositories! 🎯</p>
 
 ###
 
