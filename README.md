@@ -23,11 +23,25 @@
 
 ###
 
-<p align="left">Hi, I'm Ahmed! 🚀 I'm a software engineer and business information systems student with a passion for problem-solving, data structures, and algorithms. 💡 I specialize in C++ ⚡,C# , .NET 🖥️,ADO.NET, Windows Forms, and SQL Server 🗄️, with interest in system analysis, software architecture, and database management and architecture .<br><br>🔍 I love tackling complex problems, optimizing code for efficiency, and designing scalable systems. I'm also interested in competitive programming  🤖, software optimization, and full-stack development 
-  
-  
-  🌐.<br><br>🌍 Outside of coding, I'm fascinated by history 📜, philosophy 🏛️, and languages 🗣️—currently learning Chinese 🇨🇳 alongside my fluency in Arabic 🇸🇦 and English 🇬🇧. In my free time, I enjoy classical music 🎼, football ⚽, and exploring art and human heritage 🖼️.<br><br>💬 Always open to discussions and collaborations on exciting projects—feel free to check out my repositories! 🎯</p>
+<p align="left"Hi, I'm Ahmed 👋
 
+I’m a Software Engineer and Business Information Systems student (GPA: 3.97/4.0) passionate about building efficient, scalable, and well-structured software solutions. My expertise lies in C++, C#, .NET, ADO.NET, Windows Forms, and SQL Server, with strong interests in system analysis, software architecture, and relational database design.
+
+🔹 I focus on:
+
+Designing and optimizing backend systems
+
+Implementing relational database management solutions
+
+Exploring software optimization and competitive programming
+
+Bridging theory with practice through system analysis and architecture
+
+💡 I thrive on solving complex problems, improving performance, and developing solutions that balance efficiency, scalability, and maintainability.
+
+🌍 Beyond technology, I have a deep appreciation for history, philosophy, and languages. I’m fluent in Arabic and English, and currently learning Chinese. I also enjoy classical music, football, and exploring art and cultural heritage.
+
+🤝 Open to collaborations on impactful projects—feel free to explore my repositories and connect!
 ###
 
 
