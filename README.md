@@ -129,20 +129,7 @@ flowchart TB
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedrix&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedrix&layout=compact&theme=radical" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedrix&theme=radical" />
-</div>
-
----
 
 ## 🏆 Key Achievements
 
