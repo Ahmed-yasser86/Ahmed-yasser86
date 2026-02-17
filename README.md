@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">Software Engineer | System Architect | BIS Student (GPA: 3.97/4.0)</h3>
+<h3 align="center">Software Engineer | BIS Student (GPA: 3.97/4.0)</h3>
 
 ###
 
