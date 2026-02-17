@@ -171,7 +171,3 @@ I'm always open to collaborating on impactful projects or discussing software ar
 ```
 
 ---
-
-6. **تنسيق أحسن** وخاتمة محترمة
-
-كده البروفيل بتاعك بقى **عظمة** ويظهر كل مهاراتك الجديدة 💪🚀
