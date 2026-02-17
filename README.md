@@ -159,9 +159,7 @@ I'm always open to collaborating on impactful projects or discussing software ar
 <div align="center">
   
   ### ⚡ **"Centralize control, distribute the work, keep it simple."** ⚡
-  
-  *— Ahmed Yasser, Solo Architect & Developer*
-  
+    
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
 </div>
