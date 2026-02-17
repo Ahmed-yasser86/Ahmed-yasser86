@@ -1,3 +1,5 @@
+
+```markdown
 ## Ahmed Yasser - Software Engineer
 
 <div align="center">
@@ -64,10 +66,11 @@ flowchart TB
     User["👤 Users"] --> LB1["🚦 Chat LB"]
     User --> LB2["🚦 Video LB"]
     User --> API["🎯 .NET 9 API"]
+    User --> WebRTC["📞 Signaling Server<br/>(WebRTC)"]
     
     subgraph Chat["💬 Chat Cluster"]
         LB1 --> C1["Node α"] & C2["Node β"] & C3["Node γ"]
-        C1 <--> Redis["📨 Redis"]
+        C1 <--> Redis["📨 Redis Backplane"]
         C2 <--> Redis
         C3 <--> Redis
     end
@@ -76,9 +79,18 @@ flowchart TB
         LB2 --> V1["NMS 1"] & V2["NMS 2"] & V3["NMS 3"]
     end
     
+    subgraph OneOnOne["🤝 One-on-One Video"]
+        WebRTC --> Signal["Peer Connection"]
+        Signal --> P2P["Direct P2P Video<br/>Teacher ⇄ Student"]
+    end
+    
     API --> DB[("🗄️ SQL Server")]
     Chat --> API
     Video --> API
+    WebRTC --> API
+    
+    style OneOnOne fill:#e1f5fe,stroke:#01579b
+    style P2P fill:#fff9c4,stroke:#fbc02d
 ```
 
 ---
@@ -116,6 +128,8 @@ flowchart TB
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTMP-00D8FF?style=for-the-badge&logo=adobe&logoColor=black" />
+  <img src="https://img.shields.io/badge/HLS-FF6C37?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
 ### **Tools & IDEs**
@@ -126,7 +140,20 @@ flowchart TB
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedrix&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedrix&layout=compact&theme=radical" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedrix&theme=radical" />
+</div>
+
+---
 
 ## 🏆 Key Achievements
 
@@ -134,6 +161,7 @@ flowchart TB
 - ✅ Implemented **WebRTC one-on-one video** with zero server bandwidth for media
 - ✅ Designed **auto-scaling chat cluster** with Redis backplane synchronization
 - ✅ Created **load-balanced video streaming** supporting 900+ concurrent viewers
+- ✅ Architected **RTMP/HLS streaming cluster** with HAProxy failover
 - ✅ Maintained **3.97 GPA** while building production-ready systems
 
 ---
@@ -159,7 +187,9 @@ I'm always open to collaborating on impactful projects or discussing software ar
 <div align="center">
   
   ### ⚡ **"Centralize control, distribute the work, keep it simple."** ⚡
-    
+  
+  *— Ahmed Yasser, Solo Architect & Developer*
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
 </div>
