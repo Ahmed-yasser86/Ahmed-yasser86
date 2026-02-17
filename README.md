@@ -49,9 +49,6 @@ I'm a Software Engineer and Business Information Systems student passionate abou
   
   ### **⚡ Built From Scratch — 13 Docker Containers — 1 Developer ⚡**
   
-  [![Repository](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](link-to-repo)
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](link-to-demo)
-  
 </div>
 
 A complete learning platform where teachers can:
