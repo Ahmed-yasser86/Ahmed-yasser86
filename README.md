@@ -1,5 +1,4 @@
 
-```markdown
 ## Ahmed Yasser - Software Engineer
 
 <div align="center">
@@ -141,18 +140,6 @@ flowchart TB
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedrix&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedrix&layout=compact&theme=radical" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedrix&theme=radical" />
-</div>
-
 ---
 
 ## 🏆 Key Achievements
