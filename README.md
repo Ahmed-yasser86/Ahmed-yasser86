@@ -143,11 +143,11 @@ flowchart TB
 
 ## 🏆 Key Achievements
 
-- ✅ Built a **distributed educational platform** with 13 Docker containers — single-handedly
+- ✅ Built a **Modular educational platform** with 13 Docker containers — single-handedly
 - ✅ Implemented **WebRTC one-on-one video** with zero server bandwidth for media
 - ✅ Designed **auto-scaling chat cluster** with Redis backplane synchronization
-- ✅ Created **load-balanced video streaming** supporting 900+ concurrent viewers
-- ✅ Architected **RTMP/HLS streaming cluster** with HAProxy failover
+- ✅ Created **load-balanced video streaming** supporting  concurrent viewers
+- ✅ Architected **RTMP streaming cluster** with HAProxy failover
 - ✅ Maintained **3.97 GPA** while building production-ready systems
 
 ---
