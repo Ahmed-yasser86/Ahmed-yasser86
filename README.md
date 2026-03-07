@@ -62,7 +62,7 @@ A complete learning platform where teachers connect with thousands of students t
 
 | Feature | Implementation |
 |---------|---------------|
-| 📺 **Live Streaming** | RTMP/HLS ingestion with Node Media Server cluster |
+| 📺 **Live Streaming** | RTMP ingestion with Node Media Server cluster |
 | 💬 **Real-time Chat** | Horizontally scaled Node.js with Redis Pub/Sub backplane |
 | 🤝 **One-on-One Video** | Custom WebRTC Signaling Server with direct P2P connections |
 | 📚 **Course Management** | .NET 9 MVC with SQL Server and MediatR |
@@ -259,11 +259,6 @@ I'm drawn to the **bold and unpredictable**—people who can swing between quiet
 ---
 
 ## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-yasser86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-yasser86&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-yasser86&theme=tokyonight" alt="GitHub Streak" />
