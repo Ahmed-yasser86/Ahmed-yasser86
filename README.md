@@ -46,8 +46,7 @@ I have a strong understanding of business processes and enjoy connecting technol
 
 - Delivered scalable backend solutions by developing **Python/Flask microservices** and **GraphQL APIs** in an Agile (Kanban) environment using Jira and Confluence
 - Improved system performance and reliability by managing **PostgreSQL databases** and interacting with **Kubernetes** and the **Exoscale cloud platform**
-- have a contribution to the design of a modular internal **LLM engine architecture** that alternates specialized small models to reduce hardware costs and improve scalability for AI operations such as chatbots, content generation, reporting, and coding assistance
-
+- Contributed to the design of a modular internal LLM engine architecture that coordinates specialized small models to optimize hardware utilization and improve scalability for AI operations such as chatbots, content generation, reporting, and coding assistance.
 ---
 
 ## 🏗️ **Featured Project: Ahmedrix Educational Ecosystem**
