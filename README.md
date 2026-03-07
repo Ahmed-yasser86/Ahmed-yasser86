@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedrix&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ahmedrix?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-yasser86&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ahmed-yasser86?style=social" />
 </div>
 
 ---
