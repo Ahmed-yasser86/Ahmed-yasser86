@@ -68,7 +68,7 @@ A complete learning platform where teachers connect with thousands of students t
 
 ```mermaid
 flowchart TB
-    User["👤 1000+ Concurrent Users"] --> LB1["🚦 HAProxy Chat LB"]
+    User["👤  Concurrent Users"] --> LB1["🚦 HAProxy Chat LB"]
     User --> LB2["🚦 HAProxy Video LB"]
     User --> API["🎯 .NET 9 API"]
     User --> WebRTC["📞 WebRTC Signaling"]
