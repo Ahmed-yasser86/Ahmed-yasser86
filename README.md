@@ -1,7 +1,7 @@
 # Ahmed Yasser
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3BB2F0&center=true&vCenter=true&width=600&lines=Software+Engineer;Systems+Architect;Student+of+the+Human+Condition" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3BB2F0&center=true&vCenter=true&width=600&lines=Software+Engineer;Student+of+the+Human+Condition" alt="Typing SVG" />
 </div>
 
 <div align="center">
